@@ -1,2 +1,2 @@
 # savemark
-bookmark management app
+bookmark management web app
